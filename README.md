@@ -63,4 +63,5 @@ Pendekatan kedua menggunakan teknik **Transfer Learning** dengan base model **Mo
 
 ## Hasil 
 notebook.ipynb: 0.85533 (kaggle public score)
+
 notebook_mobilenetv2.ipynb: 0.84335 (kaggle public score)
